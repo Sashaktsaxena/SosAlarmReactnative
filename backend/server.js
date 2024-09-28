@@ -2,6 +2,7 @@ import express from 'express';
 import bodyParser from 'body-parser';
 import fetch from 'node-fetch';
 import cors from 'cors';
+
 const app = express();
 // const allowedOrigins = ['exp://192.168.1.53:8081']; // Your frontend URL
 const allowedOrigins = ['http://192.168.1.53:8081'];  // Replace 'exp://' with 'http://'
