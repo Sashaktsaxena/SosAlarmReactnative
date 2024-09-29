@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "SosApp",
-    "slug": "womensafetyapp",
+    "slug": "women-safety",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -11,15 +11,16 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
+    
 
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "746591bf-cb02-413a-b131-1053c5581e52"
+        "projectId": "ccc17c93-0492-42ee-acab-2168f2d8dc2a"
       }
     },
-    "owner": "sashy"
+    "owner": "ayush03"
   }
 }
